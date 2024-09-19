@@ -1,8 +1,4 @@
 <img src="https://img.shields.io/badge/gitHub-%E8%AE%A9%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D%E5%8F%98%E5%BE%97%E6%9B%B4%E5%A5%BD-brightgreen" />
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="">
-<br>
-<a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:falgunisarkar526@gmail.com">
   <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
