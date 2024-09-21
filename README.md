@@ -1,6 +1,6 @@
-我是 皇阿玛
+MIT License
 
-网站搭建
+Copyright (c) 2024 Xiaokang2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
